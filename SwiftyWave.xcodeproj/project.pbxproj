@@ -66,6 +66,7 @@
 		C2DFEAA02146972E005B0260 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2DFEAA32146972E005B0260 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2DFEAA52146972E005B0260 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB77FACD2C44F0EF0085697E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 		C2DFEA6C2146962D005B0260 = {
 			isa = PBXGroup;
 			children = (
+				EB77FACD2C44F0EF0085697E /* Package.swift */,
 				C2DFEA782146962D005B0260 /* SwiftyWave */,
 				C2DFEA832146962D005B0260 /* SwiftyWaveTests */,
 				C2DFEA982146972D005B0260 /* Demo */,
