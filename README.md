@@ -29,6 +29,13 @@ pod 'SwiftyWave', '~> 1.1.0'
 github "Octree/SwiftyWave" ~> 1.1.0
 ```
 
+### Swift Package Manager
+
+```
+github "https://github.com/moKelani/SwiftyWave" ~> 1.0.0
+```
+
+
 ## Usage
 
 ```swift
