@@ -33,7 +33,7 @@ github "Octree/SwiftyWave" ~> 1.1.0
 
 ```
 dependencies: [
-    .package(url: "[https://github.com/Alamofire/Alamofire.git](https://github.com/moKelani/SwiftyWave)", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/moKelani/SwiftyWave", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
